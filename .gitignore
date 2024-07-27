@@ -144,3 +144,7 @@ fabric.properties
 
 # Nest.js application
 dist/
+
+
+
+.nx/workspace-data

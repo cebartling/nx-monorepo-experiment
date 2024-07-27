@@ -2,7 +2,7 @@
   "private": true,
   "name": "shared-ui",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc"
   },
@@ -10,10 +10,10 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "react": "^18.2.0",
-    "typescript": "^5.4.5"
+    "react": "^18.2.0"
   },
   "devDependencies": {
+    "typescript": "^5.4.5",
     "@types/react": "^18.3.3"
   }
 }
